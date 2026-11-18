@@ -13,5 +13,5 @@ med.veterinária,
 PRF,
 nutrição.
 
-Coisas que eu quero aprender na área de TI
+Coisas que eu quero aprender na área de TI:
 A mexer e saber como funciona as coisas para poder aplicar em algum lugar.
