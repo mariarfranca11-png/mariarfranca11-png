@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá meu nome é Maria Rita
+Meus objetivos são:
+Ter um ótimo futuro
+Fazer minha faculdade ou concurso
+Finalizar o Ensino Médio
+Devolver tudo que meus pais já fizeram por mim
+Conquistar minhas coisas
+Ter minha casa e carro
+Viajar o mundo
 
-<!--
-**mariarfranca11-png/mariarfranca11-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Área de interesse:
+med.veterinária
+PRF
+nutrição
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coisas que eu quero aprender na área de TI
+A mexer e saber como funciona as coisas para poder aplicar em algum lugar
